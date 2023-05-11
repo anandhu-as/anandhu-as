@@ -1,6 +1,6 @@
 
 Hi, I'm Anandhu as 👋
-I'm a 17-year-old  web developer, and I'm passionate about creating web applications that can make a difference in people's lives.
+I'm a 17-year-old  web developer, and I'm passionate about creating web applications that can make a difference in people's lives.im intrested in mern stack
 
 - 🌱 I’m currently learning react js
 
