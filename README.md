@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**anandhu-as/anandhu-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Anandhu as 👋
+I'm a 17-year-old student web developer, and I'm passionate about creating web applications that can make a difference in people's lives.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning react js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Languages: HTML, CSS, JavaScript,C
+Frameworks and Libraries: React, Bootstrap, jQuery
+
+
+Projects
+netflix-clone: Created netflix UI Clone using pure html,css and javascript.
+
+
+Contact Me
+Email: anandhuas0102@gmail.com
+LinkedIn: https//linkedin.com/in/anandhu-as-aa44b0248
+
