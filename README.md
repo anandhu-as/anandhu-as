@@ -7,6 +7,7 @@ I'm a 17-year-old  web developer, and I'm passionate about creating web applicat
 Skills
 Languages: HTML, CSS, JavaScript,C
 Frameworks and Libraries: React, Bootstrap, jQuery
+version control:Git
 
 
 Projects
