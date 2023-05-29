@@ -21,8 +21,6 @@ Frameworks and Libraries: React, Bootstrap, jQuery
 version control:Git
 
 
-Projects
-netflix-clone: Created netflix UI Clone using pure html,css and javascript.
 
 
 Contact Me
