@@ -10,8 +10,8 @@ I'm a 17-year-old  web developer, and I'm passionate about creating web applicat
 
 
 Skills
-Languages: HTML, CSS, JavaScript,C
-Frameworks and Libraries: React, Bootstrap, jQuery
+Languages:  JavaScript,C,C++
+Frameworks and Libraries: React, Bootstrap, jQuery, tailwind
 
 
 
@@ -23,7 +23,4 @@ version control:Git
 
 
 
-Contact Me
-Email: anandhuas0102@gmail.com ,
-https://www.linkedin.com/in/anandhu-as-413a28257/
 
