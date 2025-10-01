@@ -51,4 +51,4 @@ Feel free to connect or check out my projects:
 
 ---
 
-Thanks for stopping by! 🚀<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1bf28326-793c-4c7a-a9e0-b79b3cb93ae0" />
+Thanks for stopping by! 🚀
