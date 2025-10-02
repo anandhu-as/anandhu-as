@@ -1,56 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+My+GitHub!;JavaScript+Enthusiast;React+%7C+Node.js+%7C+Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=500&lines=Hi+There!+I'm+Anandhu;JavaScript+Developer;React+%7C+Node.js+%7C+Open+Source" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" alt="Developer GIF">
+  <img src="https://media.giphy.com/media/3o7abKHdP2XxA5n5zC/giphy.gif" width="350" alt="Coding GIF">
 </p>
 
-# 👨‍💻 Anandhu | JavaScript Dev
+# 👨‍💻 Anandhu | JavaScript Developer
 
-Hey there! I'm **Anandhu**, a curious developer focused on JavaScript and the modern web.  
-I love experimenting with new frameworks, contributing to open-source, and sharing my journey.
+Hello! I'm **Anandhu**, a passionate developer building modern web applications with **JavaScript**, **React**, and **Node.js**. I love experimenting with new frameworks, contributing to open-source, and continuously learning.  
 
-- 🚀 **Portfolio:** [anandhuuuu.vercel.app](https://anandhuuuu.vercel.app/)
-- 🌱 Currently seeking exciting work opportunities
-- 💡 50+ projects and experiments on my GitHub
+- 🚀 **Portfolio:** [anandhuuuu.vercel.app](https://anandhuuuu.vercel.app/)  
+- 🌱 Currently exploring advanced JavaScript concepts and building real-world projects  
+- 💡 1 project on GitHub showcasing my skills  
 
----
+## 🛠️ Tech Stack
+- **Frontend:** JavaScript, React, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Tools:** Git, VS Code, Figma  
 
-## 🛠️ Skills & Tools
-
-- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
-- **Frameworks:** React, Next.js, Node.js, Express
-- **Other:** REST APIs, Git, Vercel, Netlify
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandhu-as&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu-as&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+## 📫 Connect with me
+- [GitHub](https://github.com/anandhu-as)  
+- [LinkedIn](https://www.linkedin.com/in/anandhu-as/)  
 
 ---
 
-## 📬 Connect with Me
-
-- [GitHub](https://github.com/anandhu-as)
-- [Portfolio](https://anandhuuuu.vercel.app/)
-- [LinkedIn](#) <!-- Add your LinkedIn link here if you want -->
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/anandhu-as?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/React-blue?logo=react" alt="React Badge">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge">
-</p>
-
----
-
-*Thanks for visiting my profile! Feel free to connect or check out my work. Happy coding! 🚀*
+*"Code is like humor. When you have to explain it, it’s bad."* 💻
