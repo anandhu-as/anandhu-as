@@ -8,7 +8,8 @@
 
 # 👋 Hi, I'm Anandhu
 
-Welcome to my GitHub! I'm a web developer passionate about crafting interactive experiences using **JavaScript**, **React**, and **Node.js**. I thrive on learning, collaborating, and building solutions that make a difference.
+Welcome to my GitHub! I'm a web developer passionate about crafting interactive experiences using **JavaScript**, **React**, and **Node.js**. I thrive on learning, collaborating, and building solutions that make a difference..
+
 
 - 🌐 **Portfolio:** [anandhuuuu.vercel.app](https://anandhuuuu.vercel.app/)
 - 📚 Always learning: currently deep-diving into advanced JS patterns & scalable architectures
