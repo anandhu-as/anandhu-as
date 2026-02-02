@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=500&lines=Hey!+I'm+Anandhu;Frontend+Developer;React+%7C+JavaScript+%7C+Open+Source+Lover" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" alt="Coding GIF">
-</p>
 
 # 👋 Hi, I'm Anandhu
 
