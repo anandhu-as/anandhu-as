@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a **frontend developer** passionate about crafting bea
 
 ## 🤝 Let's Connect!
 - [GitHub](https://github.com/anandhu-as)
-- [LinkedIn](https://www.linkedin.com/in/anandhu-as/)
+- [LinkedIn](https://www.linkedin.com/in/anandhuuas/)
 
 ---
 
