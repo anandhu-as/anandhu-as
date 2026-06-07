@@ -22,11 +22,7 @@ Building scalable web applications with modern technologies and continuously exp
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,redux,tailwind,git,github,vercel,postman,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Arcjet-000000?style=for-the-badge&logo=shield&logoColor=white" />
-</p>
+
 
 ---
 
