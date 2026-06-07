@@ -52,9 +52,11 @@ Building scalable web applications with modern technologies and continuously exp
 <a href="https://github.com/anandhu-as">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+  
 <a href="https://www.linkedin.com/in/anandhuuas/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 <a href="https://anandhuuu.vercel.app">
   <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
