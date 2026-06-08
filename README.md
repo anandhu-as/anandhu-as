@@ -19,7 +19,7 @@ Building scalable web applications with modern technologies and continuously exp
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,redux,tailwind,git,github,vercel,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,redux,tailwind,git,github,vercel,postman," />
 </p>
 
 
