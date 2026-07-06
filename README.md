@@ -9,10 +9,9 @@ Building scalable web applications with modern technologies and continuously exp
 ## 🚀 About Me
 
 - 💻 Software Developer
-- 🌱 Currently learning **Next.js**
 - ⚡ Experienced with modern JavaScript ecosystems
 - 🎯 Interested in full-stack development, system design, and performance optimization
-- 📍 Kerala - banglore , India
+
 
 ---
 
